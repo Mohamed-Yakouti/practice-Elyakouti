@@ -41,3 +41,26 @@ Here are four cities I would like to visit in the future:
 
 > "I told my doctor that I broke my arm in two places. He told me to stop going to those places."  
 — Henny Youngman
+
+---
+
+## Code Snippet: Recursion Examples
+
+This snippet demonstrates a simple recursive method in Java to calculate the factorial of a non-negative integer.
+
+```java
+public class Factorial {
+    public static long factorial(int n) {
+        if (n <= 1) {
+            return 1;
+        } else {
+            return n * factorial(n - 1);
+        }
+    }
+
+    public static void main(String[] args) {
+        int number = 5;
+        long result = factorial(number);
+        System.out.println("Factorial of " + number + " is: " + result);
+    }
+}
