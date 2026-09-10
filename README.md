@@ -31,3 +31,13 @@ Here are four cities I would like to visit in the future:
 | Paris | Iconic landmarks and museums | 960 miles | $300 |
 | Rome | Ancient architecture and cuisine | 1,200 miles | $350 |
 | New York | Dynamic cultural life and sights | 3,900 miles | $900 |
+
+---
+
+## Favorite Jokes
+
+> "I'm not superstitious, but I am a little stitious."  
+— Michael Scott
+
+> "I told my doctor that I broke my arm in two places. He told me to stop going to those places."  
+— Henny Youngman
