@@ -19,3 +19,15 @@ Jason Statham is one of my favorite actors because of his **action skills** and 
 
 [Click here to read about my favorite city](MyCity.md)
 
+---
+
+## Future Travel Destinations
+
+Here are four cities I would like to visit in the future:
+
+| City | Reason to Visit | Distance from Stockholm | Estimated Travel Cost |
+| :--- | :--- | :--- | :--- |
+| Tokyo | Rich history and modern technology | 5,080 miles | $1,400 |
+| Paris | Iconic landmarks and museums | 960 miles | $300 |
+| Rome | Ancient architecture and cuisine | 1,200 miles | $350 |
+| New York | Dynamic cultural life and sights | 3,900 miles | $900 |
